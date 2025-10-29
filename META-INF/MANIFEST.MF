@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+MixinConfigs: mixins.taunahi.json
+Implementation-Version: 3.5.55
+FMLCorePluginContainsFMLMod: true
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+
